@@ -1,1 +1,3 @@
-I’m interested in django anh machine learning
+I’m interested in Computer Vision and Django Backend
+
+
